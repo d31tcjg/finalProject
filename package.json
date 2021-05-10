@@ -7,6 +7,9 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "@vueuse/firebase": "^4.9.2",
+    "daisyui": "^0.26.0",
+    "firebase": "^8.5.0",
     "vite-plugin-icons": "^0.5.0",
     "vue": "^3.0.5",
     "vue-router": "^4.0.5"
