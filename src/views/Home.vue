@@ -12,6 +12,7 @@
           SignUp to get started
         </p>
         <button
+          @click="$router.push('signup')"
           class="w-full bg-white text-blue-800 p-2 rounded mt-2 hover:bg-gray-500 font-bold tracking-wide mb-5"
         >
           SignUp

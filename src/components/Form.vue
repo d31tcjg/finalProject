@@ -77,7 +77,7 @@ const register = async () => {
 const google = async () => {
   try {
     await googlePopup();
-    router.push("/");
+    router.push("/workout");
   } catch (error) {
     console.log(error);
   }
